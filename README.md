@@ -1,5 +1,5 @@
 # PS3E26-Multi-Class-Prediction-of-Cirrhosis
-Efficient and simple solution for Kaggle competition Multi-Class Prediction of Cirrhosis Outcomes
+Efficiently leveraging multi-class techniques to predict patient outcomes in cirrhosis for the Season 3 finale of the 2023 Kaggle Playground Series
 
 
 ## The notebook on Kaggle: (https://www.kaggle.com/code/mostafamohammednouh/ps3e26-multi-class-prediction-of-cirrhosis)
