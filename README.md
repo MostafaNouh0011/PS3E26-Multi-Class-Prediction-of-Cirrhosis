@@ -1,8 +1,8 @@
 # PS3E26-Multi-Class-Prediction-of-Cirrhosis
-Efficiently leveraging multi-class techniques to predict patient outcomes in cirrhosis for the Season 3 finale of the 2023 Kaggle Playground Series
+Efficiently leveraging multi-class techniques to predict patient outcomes in cirrhosis for the Season 3 finale of the 2023 Kaggle Playground Series, Ranked 355/1661 team.
 
 
-## The notebook on Kaggle: (https://www.kaggle.com/code/mostafamohammednouh/ps3e26-multi-class-prediction-of-cirrhosis)
+## The notebook on Kaggle: [https://www.kaggle.com/code/mostafamohammednouh/ps3e26-multi-class-prediction-of-cirrhosis]
 
 In this project I have used the competition dataset which was generated from a deep learning model trained on the `Cirrhosis Patient Survival Prediction` dataset in addition to the original dataset
 
